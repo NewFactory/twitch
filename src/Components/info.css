@@ -1,0 +1,25 @@
+table {
+    color: #18ff00;
+    background-color: black;
+    width: 100%;
+}
+th {
+    text-align: center;
+    border: 1px solid #18ff00;
+}
+td {
+    border-bottom: 1px solid #18ff00;
+    border-right: 1px solid #18ff00;
+    font-family:'Courier Prime', monospace;
+
+}
+th, td{
+    padding: 5px;
+    text-align: left;
+}
+
+.error {
+    margin: 10px;
+    text-align: center;
+
+}

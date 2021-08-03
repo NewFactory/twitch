@@ -1,0 +1,21 @@
+.search {
+    display: grid;
+    justify-content: center;
+}
+
+form {
+    display: grid;
+}
+
+input {
+    background-color: black;
+    color: #18ff00;
+    border: 1px solid #18ff00;
+    margin: 3px;
+}
+button {
+    background-color: black;
+    margin: 1%;
+    color: #18ff00;
+    border: none;
+}
